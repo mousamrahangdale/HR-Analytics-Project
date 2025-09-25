@@ -5,15 +5,10 @@ The HR Analytics Dashboard is designed to help organizations analyze employee da
 
 
 Objectives:
-
 Analyze employee demographics, engagement, and performance
-
 Track attrition trends and risk factors
-
 Evaluate training program effectiveness
-
 Predict which employees may leave using Machine Learning
-
 Provide interactive dashboards for HR decision-making
 
 Project Structure
